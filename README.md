@@ -24,11 +24,11 @@ Lidero times e iniciativas técnicas em programas de **modernização de sistema
 
 ## 🛠️ Tecnologias
 
-**Backend**: Java · Spring Boot · Quarkus · Jakarta EE · Hibernate · PostgreSQL · Redis
-**Frontend**: Angular · React · PrimeNG · Nx
-**Mobile**: React Native · Expo · Flutter · Kotlin Multiplatform · Swift/SwiftUI
-**IA e Automação**: Claude · GitHub Copilot · Sistemas multiagentes · Python
-**Cloud e DevOps**: AWS · Azure · Git · OpenRewrite
+- **Backend**: Java · Spring Boot · Quarkus · Jakarta EE · Hibernate · PostgreSQL · Redis
+- **Frontend**: Angular · React · PrimeNG · Nx
+- **Mobile**: React Native · Expo · Flutter · Kotlin Multiplatform · Swift/SwiftUI
+- **IA e Automação**: Claude · GitHub Copilot · Sistemas multiagentes · Python
+- **Cloud e DevOps**: AWS · Azure · Git · OpenRewrite
 
 ## 💡 Como penso engenharia
 
@@ -40,10 +40,12 @@ Lidero times e iniciativas técnicas em programas de **modernização de sistema
 
 ## 📚 Fora do código
 
-Interessado em matemática, filosofia, teologia e na natureza fundamental dos números.
+- **Ciências e ideias**: matemática, a natureza fundamental dos números, filosofia e teologia
+- **Engenharia além do software**: engenharia civil e CAD/BIM
+- **Para recarregar**: animais e natureza
 
 ## 📫 Contato
 
-- LinkedIn: [seu-perfil]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/george-lanes-a0319a1/))
+- LinkedIn: ([George Lanes](https://www.linkedin.com/in/george-lanes-a0319a1/))
 - E-mail: georgelanes@gmail.com / george@globit.com.br
 - Site: [globit](https://www.globit.com.br)
