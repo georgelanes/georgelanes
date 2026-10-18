@@ -46,6 +46,6 @@ Lidero times e iniciativas técnicas em programas de **modernização de sistema
 
 ## 📫 Contato
 
-- LinkedIn: ([George Lanes](https://www.linkedin.com/in/george-lanes-a0319a1/))
-- E-mail: georgelanes@gmail.com / george@globit.com.br
-- Site: [globit](https://www.globit.com.br)
+- LinkedIn: [George Lanes](https://www.linkedin.com/in/george-lanes-a0319a1/)
+- E-mail: <georgelanes@gmail.com> / <george@globit.com.br>
+- Site: [GLOBIT](https://www.globit.com.br)
